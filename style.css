@@ -1,0 +1,73 @@
+#game{
+  /*max-width: 940px;
+  margin: 0 auto;*/
+  color:black;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+#logo{
+  text-align: center;
+  margin: 0;
+}
+
+#picture{
+  float:left;
+  margin-left: 1em;
+  margin: 0 30px 0 0;
+  padding: 0 30px 0 0;
+}
+
+#twitter{
+  float:left;
+  margin-left: 1em;
+  margin: 0 30px 0 0;
+  padding: 0 30px 0 0;
+}
+
+a {
+  color: #ff5c5c;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+header{
+  background: #6ab47b;
+  border-color: #599a68;
+}
+
+h1, h2{
+  color: #fff;
+  font-family: 'Open Sans Condensed';
+  font-size: 50px;
+}
+
+nav{
+  background: #599a68;
+}
+
+nav a, nav a:visited{
+  color: #fff;
+}
+
+nav a.selected, nav a:hover{
+  color: #32673f;
+}
+
+body{
+  background-color: #b5fdff;
+  color: #999;
+}
+
+section{
+  color: #ff5c5c;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+#contact{
+  color:black;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+}
